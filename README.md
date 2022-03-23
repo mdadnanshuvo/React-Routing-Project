@@ -1,3 +1,3 @@
-# react-6kxn8s
+# react-project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-6kxn8s)
+Another React project to create a complete navigate-able page with Routing, Switch and Navigation Bar.
